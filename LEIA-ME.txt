@@ -1,0 +1,25 @@
+SITE EDUCATIVO — DISCRIMINAÇÃO E PRECONCEITO NO AMBIENTE ESCOLAR
+
+Ficheiros:
+- index.html: conteúdo e estrutura do website.
+- style.css: cores, apresentação e adaptação a telemóveis/computadores.
+- script.js: menu móvel e pequeno questionário interactivo.
+- imagens/: ilustrações SVG utilizadas no website.
+
+COMO ABRIR:
+1. Extraia o ficheiro ZIP.
+2. Mantenha index.html, style.css, script.js e a pasta imagens juntos.
+3. Abra index.html no navegador.
+
+COMO PUBLICAR NO GITHUB PAGES:
+1. Entre em https://github.com e crie um repositório público.
+2. Carregue TODOS os ficheiros e a pasta imagens, mantendo a estrutura.
+3. Abra Settings > Pages.
+4. Em Build and deployment, escolha Deploy from a branch.
+5. Escolha a branch main e a pasta /(root), depois carregue em Save.
+6. Aguarde a publicação. O GitHub apresentará o endereço do site nessa página.
+
+IMPORTANTE:
+- Não mude os nomes dos ficheiros sem actualizar os caminhos no HTML.
+- O site usa Google Fonts quando existe internet; o restante conteúdo e as ilustrações locais funcionam sem depender de serviços externos.
+- Reveja o conteúdo e confirme os dados do grupo antes da apresentação.
